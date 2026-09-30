@@ -1,4 +1,4 @@
-# 🔥 FireSightNet: A Novel Deep Learning Framework for Multi-Class Forest Fire and Smoke Detection
+# 🔥 FireSightNet
 
 [![Paper](https://img.shields.io/badge/Paper-Expert%20Systems%20with%20Applications-blue)](https://www.sciencedirect.com/journal/expert-systems-with-applications)
 [![Dataset](https://img.shields.io/badge/Dataset-Kaggle-orange)](https://www.kaggle.com/datasets/ranjithkumaranandan/forestfire)
@@ -6,11 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)](https://pytorch.org/)
 
-> **A Novel Deep Learning Framework for Multi-Class Forest Fire and Smoke Detection Using Dual Attention and Multi-Scale Feature Fusion with Fire Spread Index Evaluation**
->
-> Ranjith Kumar Anandan — Department of Computer Science and Engineering, SRM Institute of Science and Technology, Ramapuram, Chennai, India
 
----
 
 ## 📌 Overview
 
